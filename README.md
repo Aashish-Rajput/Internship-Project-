@@ -6,3 +6,4 @@ CODECALUSE internship.
 Level :1 
 Task :  Random Password Generator In Python
 Technologies -Python(Tkinter)
+CODE:
